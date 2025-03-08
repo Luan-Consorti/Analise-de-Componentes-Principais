@@ -20,5 +20,5 @@ Utilizando ainda o metodo do KNN para modelar essa classifcação, chegamos nos 
 Observações:
 - A precisão ( FP/FP+FN ) é mais alta para os C e PG, fato que eles possuem alturas e pesos bem diferentes, ficando facil deferencia-los dos demais.
 - O suporte dos SF realmete deixa a desejar na amostra de teste ( na amostra de treino está dividida bem melhor).
-- Consequencia da ultima, a precisão e o recall quando se trata do SF estão bem distantes podendo indicar que o modelo está comentendo muito os Falsos Positivos.
+- Consequência da última, a precisão e o recall quando se trata do SF estão bem distantes podendo indicar que o modelo está comentendo muito os Falsos Positivos.
 - Apesar de 47.52% de acuracia, ja melhorou bastante em relação ao primeiro!
